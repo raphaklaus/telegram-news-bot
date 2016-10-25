@@ -20,6 +20,7 @@
     "bluebird": "^3.4.6",
     "dotenv": "^2.0.0",
     "feed-read": "0.0.1",
-    "node-telegram-bot-api": "^0.24.0"
+    "node-telegram-bot-api": "^0.24.0",
+    "request-promise": "^4.1.1"
   }
 }
